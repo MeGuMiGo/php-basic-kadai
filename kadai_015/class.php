@@ -70,9 +70,7 @@
           echo '<br>';
          //それぞれのクラスに作成したメソッドにアクセスしメソッドを実行 
          $food->show_price(250);
-         echo $food->show_price;
          $animal->show_height(60);
-         echo $animal->show_height;
          ?>
       </P>
  </body>
